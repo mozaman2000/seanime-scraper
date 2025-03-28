@@ -1,0 +1,21 @@
+{
+  "name": "seanime-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes torrents from popular sites for anime content",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "moaaz",
+  "license": "MIT"
+}
