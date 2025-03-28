@@ -2,7 +2,7 @@
   "id": "moaaz-torrent-scraper",
   "name": "MTS",
   "description": "this extension scrapes entertainment torrent content from various sites",
-  "manifestUR": "",
+  "manifestURI": "https://raw.githubusercontent.com/mozaman2000/seanime-scraper/refs/heads/main/manifest.json",
   "version": "1.0.0",
   "language": "typescript",
   "type": "anime-torrent-provider",
