@@ -1,6 +1,6 @@
 {
-  "id": "moaaz-scraper",
-  "name": "Moaaz-Scraper",
+  "id": "moaaz-torrent-scraper",
+  "name": "MTS",
   "version": "1.0.0",
   "language": "typescript",
   "type": "anime-torrent-provider",
