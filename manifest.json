@@ -2,7 +2,7 @@
   "id": "moaaz-scraper",
   "name": "Moaaz-Scraper",
   "version": "1.0.0",
-  "language": "javascript",
+  "language": "typescript",
   "type": "anime-torrent-provider",
   "author": "moaaz",
   "payload": "{}"
