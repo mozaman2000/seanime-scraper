@@ -1,5 +1,1 @@
-{
-  "compilerOptions": {
-    "lib": ["ESNext", "DOM"]
-  }
-}
+
