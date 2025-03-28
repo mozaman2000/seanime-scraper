@@ -3,7 +3,7 @@
   "name": "seanime-scraper",
   "version": "1.0.0",
   "language": "javascript",
-  "type": "scraper",
+  "type": "anime-torrent-provider",
   "author": "moaaz",
   "payload": "{}"
 }
